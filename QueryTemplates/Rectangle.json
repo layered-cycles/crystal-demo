@@ -1,0 +1,14 @@
+{
+  "type": "Rectangle",
+  "inputs": {
+    "left": 0,
+    "top": 0,
+    "right": 1,
+    "bottom": 1,
+    "color": {
+      "hue": 17,
+      "saturation": 1,
+      "value": 1
+    }
+  }
+}
